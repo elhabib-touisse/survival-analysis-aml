@@ -1,0 +1,21 @@
+# Données brutes du Challenge Data QRT (ne pas redistribuer publiquement)
+data/
+*.zip
+*.csv
+
+# Mémoire PDF privé
+*.pdf
+
+# Fichiers temporaires Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Brouillons et fichiers web hors périmètre
+qrtrussy leucemie aigue.ipynb
+Benchmark_nqBJ7fO.ipynb
+index.html
+app.js
+styles.css
+public/
